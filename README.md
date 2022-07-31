@@ -1,10 +1,11 @@
-![Banner](./)
+<p align="center" style="border-radius:100%"><img height="auto" width="10%" src="/assets/></p>
+
 ### <div align="center">Oi, eu sou o Mauricio</div>
 <div> <ul>
   <li> 🔭 Trabalho em telecomunicações, mas estou buscando novas oportunidades para iniciar uma nova carreira como desenvolvedor full-stack.</li>
   <li> 🎓 Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Educacional UNIDERP.</li>
   <li> 🌱 Estou Estudando Desenvolvimento de Aplicações Mobile</li> 
-  <li> 😄 Seja bem-vindo e fique a vontade para analisar meus projetos</li>
+  <li> 😄 Seja bem-vindo !!!</li>
   </ul>
 </div>
       
