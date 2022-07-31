@@ -1,9 +1,13 @@
-### Oi, eu sou o Mauricio
-
-- 🔭 Trabalho como Técnico de Telecom, porém estou buscando novas oportunidades para iniciar uma nova carreira como desenvolvedor full-stack.
-- 🎓 Tenho Graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Educacional UNIDERP.
-- 🌱 Estudando Desenvolvimento de Aplicações Mobile e Futuro Pesquisador Cientifico no projeto PICT EAD da KROTON. 
-- 😄 Pronouns: Ele/Dele
+### <div align="center">Oi, eu sou o Mauricio</div>
+<div> <ul>
+  <li> 🔭 Trabalho em telecomunicações, mas estou buscando novas oportunidades para iniciar uma nova carreira como desenvolvedor full-stack.</li>
+  <li> 🎓 Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Educacional UNIDERP.</li>
+  <li> 🌱 Estou Estudando Desenvolvimento de Aplicações Mobile</li> 
+  <li> 😄 Seja bem-vindo e fique a vontade para analisar meus projetos</li>
+  </ul>
+</div>
+      
+    
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Mauricio-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
