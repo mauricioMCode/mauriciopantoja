@@ -1,3 +1,4 @@
+![Banner](./)
 ### <div align="center">Oi, eu sou o Mauricio</div>
 <div> <ul>
   <li> 🔭 Trabalho em telecomunicações, mas estou buscando novas oportunidades para iniciar uma nova carreira como desenvolvedor full-stack.</li>
