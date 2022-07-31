@@ -4,7 +4,8 @@
 - 🎓 Tenho Graduação de Tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Educacional UNIDERP.
 - 🌱 Estudando Desenvolvimento de Aplicações Mobile e Futuro Pesquisador Cientifico no projeto PICT EAD da KROTON. 
 - 😄 Pronouns: Ele/Dele
--->
+
+
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=mauriciopantoja&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" target="_blank">
