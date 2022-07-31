@@ -37,8 +37,9 @@
   <a href="mcpantoja@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mauricio-pantoja/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
-  <br>  
+  <br> 
+  ![snake gif](https://github.com/mauriciopantoja/mauriciopantoja/blob/output/github-contribution-grid-snake.svg)
 </div>
-    ![snake gif](https://github.com/mauriciopantoja/mauriciopantoja/blob/output/github-contribution-grid-snake.svg)
+    
 
 
