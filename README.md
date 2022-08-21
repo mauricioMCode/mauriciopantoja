@@ -2,10 +2,10 @@
 
 ### <div align="center">Oi, eu sou o Mauricio</div>
 <div> <ul>
-  <li> 🔭 Trabalho em telecomunicações, mas estou buscando novas oportunidades para iniciar uma nova carreira como desenvolvedor full-stack.</li>
+  <li> 🔭 Trabalho desenvolvedor de Aplicações Mobile.</li>
   <li> 🎓 Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Educacional UNIDERP.</li>
   <li> 🌱 Estou Estudando Desenvolvimento de Aplicações Mobile</li> 
-  <li> 😄 Seja bem-vindo !!!</li>
+  <li> 😄 Cursando MBA em Cybersecurity e Cibercrimes na Faculdade Anhanguera Educacional UNIDERP</li>
   </ul>
 </div>
       
