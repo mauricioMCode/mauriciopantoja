@@ -2,10 +2,10 @@
 
 ### <div align="center">Oi, eu sou o Mauricio</div>
 <div> <ul>
-  <li> 🔭 Trabalho como desenvolvedor de Aplicações Mobile.</li>
-  <li> 🎓 Sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Educacional UNIDERP.</li>
-  <li> 🌱 Estou Estudando Desenvolvimento de Aplicações Mobile</li> 
-  <li> 😄 Cursando MBA em Cybersecurity e Cibercrimes na Faculdade Anhanguera Educacional UNIDERP</li>
+  <li> 🔭 Estou a procura de uma oportunidade de Trabalho como desenvolvedor de Aplicações Mobile.</li>
+  <li> 🎓 Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Anhanguera UNIDERP.</li>
+  <li> 🌱 Sou especialista em Desenvolvimento de Aplicações Mobile</li> 
+  <li> 😄 Estou cursando MBA em Cybersecurity na Universidade Anhanguera UNIDERP</li>
   </ul>
 </div>
       
