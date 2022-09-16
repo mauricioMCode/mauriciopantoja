@@ -1,11 +1,11 @@
 <p align="center" style="border-radius:100%"><img height="auto" width="10%" src="./assets/perfil_git.jpg"></p>
 
 ### <div align="center">Oi, eu sou o Mauricio</div>
-<div> <ul>
-  <li> 🔭 Estou a procura de uma oportunidade de Trabalho como desenvolvedor de Aplicações Mobile.</li>
-  <li> 🎓 Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Anhanguera UNIDERP.</li>
-  <li> 🌱 Sou especialista em Desenvolvimento de Aplicações Mobile</li> 
+<div> <ul> 
+  <li> 🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas graduado na Universidade Anhanguera UNIDERP.</li>
+  <li> 🌱 Sou especialista em Desenvolvimento de Aplicações Mobile e Web</li> 
   <li> 😄 Estou cursando MBA em Cybersecurity na Universidade Anhanguera UNIDERP</li>
+  <li> 😄 Sou um apaixonado por tecnologia, música e games</li>
   </ul>
 </div>
       
