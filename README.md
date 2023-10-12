@@ -50,7 +50,7 @@
   <br>
   <br>
   
-  /*![snake animation](https://github.com/mauriciopantoja/mauriciopantoja/blob/output/github-contribution-grid-snake.svg)*/
+  
   
   
 </div>
