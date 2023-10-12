@@ -46,7 +46,7 @@
   <a href="https://g.dev/mauriciopantoja"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
   <br>
   <br>
-  <a href="https://github.com/mauriciopantoja/mauriciopantoja.git"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=mauriciopantoja&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  
   <br>
   <br>
   
