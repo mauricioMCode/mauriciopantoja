@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="10%" src="./assets/"></p>
+
 
 ### <div align="center">Oi, eu sou o Mauricio</div>
 <div> <ul> 
