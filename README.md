@@ -2,10 +2,12 @@
 
 ### <div align="center">Oi, eu sou o Mauricio</div>
 <div> <ul> 
-  <li> 🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas graduado na Universidade Anhanguera UNIDERP.</li>
-  <li> 🌱 Sou especialista em Desenvolvimento de Aplicações Mobile e Web</li> 
-  <li> 😄 Estou cursando MBA em Cybersecurity na Universidade Anhanguera UNIDERP</li>
-  <li> 😄 Sou um apaixonado por tecnologia, música e games</li>
+  <li> 🎓 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas</li>
+  <li> 🎓 Pós-Graduado em MBA em Cybersecurity e Cibercrimes</li>
+  <li> 🎓 Pós-Graduado em Engenharia de Redes</li>
+  <li> 🌱 Especialista em Infraestrutura de Data Center On-Premise e Cloud</li>
+  <li> 🌱 Especialista em Desenvolvimento de Aplicações Mobile</li> 
+  <li> 😄 Amante por tecnologia, música e games</li>
   </ul>
 </div>
       
